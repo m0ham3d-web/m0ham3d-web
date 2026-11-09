@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Mohamed 👋
 
-<!--
-**m0ham3d-web/m0ham3d-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Front-End Developer | Building Modern Web Experiences
 
-Here are some ideas to get you started:
+I'm a passionate Front-End Developer who enjoys turning ideas into clean, responsive, and interactive websites.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I focus on creating modern user interfaces with attention to detail, performance, and user experience.
+
+---
+
+### 🛠️ Technologies & Tools
+
+- **Frontend:** HTML5, CSS3, JavaScript
+- **Tools:** Git, GitHub, VS Code
+- **Currently Learning:** Advanced JavaScript and modern web development
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description |
+|---|---|
+| [Mini Freelance Platform](https://github.com/m0ham3d-web/freelance) | A mini platform for freelance services |
+| [NOVA - Premium Fashion](https://github.com/m0ham3d-web/NOVA) | A modern fashion e-commerce experience |
+| [CRUDS](https://github.com/m0ham3d-web/CRUDS) | A CRUD management application |
+
+---
+
+### 🌐 Connect With Me
+
+- **Portfolio:** [Visit My Portfolio](https://m0ham3d-web.github.io/Portfolio/)
+- **GitHub:** [@m0ham3d-web](https://github.com/m0ham3d-web)
+
+---
+
+⭐ Thanks for visiting my profile!
